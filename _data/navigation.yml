@@ -1,0 +1,8 @@
+- name: Home
+  link: file:///Users/martinrau/Documents/jekyllproject/_site/index.html
+- name: About
+  link: file:///Users/martinrau/Documents/jekyllproject/_site/about.html
+- name: Blog
+  link: file:///Users/martinrau/Documents/jekyllproject/_site/blog.html
+- name: Staff
+  link: file:///Users/martinrau/Documents/jekyllproject/_site/staff.html
